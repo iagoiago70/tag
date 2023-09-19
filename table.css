@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+}
+tbody tr:nth-of-type(odd){
+background-color: darkgrey;
+
+}
+tr, td{
+padding: 1em;
+border: 1px;
+
+}
